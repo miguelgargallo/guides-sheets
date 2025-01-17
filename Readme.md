@@ -1,4 +1,6 @@
-# Important Guides of Development
+# Guides Sheets
+
+This repository contains cheat sheets for various tools and technologies. These cheat sheets are designed to help you quickly find the commands you need to know without having to search through the entire manual. They are great resources for both beginners and experienced users.
 
 ## 1 Ubuntu Server CLI cheat sheet 2024 v6
 
